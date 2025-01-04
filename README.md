@@ -1,2 +1,2 @@
 # py-game
-A classic game where you control a growing snake, guiding it to eat food and avoid running into walls or its own tail. Test your reflexes and strategy as the snake becomes longer and the game speeds up.
+Dive into a collection of captivating 2D games created with Python and PyGame. Whether you’re dodging obstacles in a classic snake game, honing your sharpshooter skills, zooming around the track in a car race, or piloting a spaceship through the cosmos, each game offers a unique and thrilling experience. Ideal for those who appreciate retro gaming charm combined with modern coding techniques.
